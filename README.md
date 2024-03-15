@@ -11,11 +11,11 @@ Gruppenmitgleider: Kometer Alexander und Sagmeister Georg
 ## Beteiligte Akteure
     Beteiligt sind der Diagostiker und der Probant
 ## Status
-
+    offen
 ## Verwendete Anwendungsfälle
-
+    UC 1.01 und UC 1.02
 ## Auslöser
-
+    Leistung verlässt den Leistungsbereich
 ## Vorbedingung
 
 ## Invarianten
@@ -29,8 +29,6 @@ Gruppenmitgleider: Kometer Alexander und Sagmeister Georg
 ## Hinweise
 
 ## Änderungsgeschichte
-
-
 
 
 
