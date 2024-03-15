@@ -29,7 +29,7 @@ Gruppenmitgleider: Kometer Alexander und Sagmeister Georg
 ## Hinweise
 
 ### Änderungsgeschichte
-    _15-03-2024 Erstellung des Ablaufes UC1.04
+     - 15-03-2024 Erstellung des Ablaufes UC1.04
 
 
 
