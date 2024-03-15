@@ -5,16 +5,37 @@ Gruppenmitgleider: Kometer Alexander und Sagmeister Georg
 
 # UC 1.04 (Alarm bei Leistungsabweichung)
 ## Name und Idendifikationsnummer
-    Hallo
+    UC1.04 (Alarm bei Leistungsabweichung)
 ## Beschreibung
+    Bei Abfall der Leistung soll es ein optischer und akustischer Alarm den Diagnostiker alarmieren.
 ## Beteiligte Akteure
+
 ## Status
+
 ## Verwendete Anwendungsfälle
+
 ## Auslöser
+
 ## Vorbedingung
+
 ## Invarianten
+
 ## Nachbedingung/Ergebnis
+
 ## Standardablauf
+
 ## Alternative Ablaufschritte
+
 ## Hinweise
+
 ## Änderungsgeschichte
+
+
+
+
+
+
+
+
+
+
