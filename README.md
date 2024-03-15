@@ -17,19 +17,19 @@ Gruppenmitgleider: Kometer Alexander und Sagmeister Georg
 ## Auslöser
     Leistung verlässt den Leistungsbereich
 ## Vorbedingung
-
+    Die vorgegeben Leistung wurde bis jetzt erfüllt
 ## Invarianten
-
+    Leistungsaufzeichnung wird bis zum Abbruch des Testes fortgeführt. 
 ## Nachbedingung/Ergebnis
     UC1.07 Abbruch des Leistungstests
 ## Standardablauf
-
+    Der Probant ist auf grund der zu hohen geforderten Leistung nicht mehr in der Lage die gewünschte Leistung zu treten. In folge wird somit siene maximale Leistung gemessen
 ## Alternative Ablaufschritte
 
 ## Hinweise
 
-## Änderungsgeschichte
-
+### Änderungsgeschichte
+    - 15-03-2024 Erstellung des Ablaufes UC1.04
 
 
 
