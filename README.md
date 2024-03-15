@@ -23,7 +23,7 @@ Gruppenmitgleider: Kometer Alexander und Sagmeister Georg
 ## Nachbedingung/Ergebnis
     UC1.07 Abbruch des Leistungstests
 ## Standardablauf
-    Der Probant ist auf grund der zu hohen geforderten Leistung nicht mehr in der Lage die gewünschte Leistung zu treten. In folge wird somit siene maximale Leistung gemessen
+    Der Proband ist aufgrund der zu hohen geforderten Leistung nicht mehr in der Lage, die gewünschte Leistung zu erreichen. In Folge wird somit seine maximale Leistung gemessen.
 ## Alternative Ablaufschritte
 
 ## Hinweise
