@@ -9,7 +9,7 @@ Gruppenmitgleider: Kometer Alexander und Sagmeister Georg
 ## Beschreibung
     Bei Abfall der Leistung soll es ein optischer und akustischer Alarm den Diagnostiker alarmieren.
 ## Beteiligte Akteure
-
+    Beteiligt sind der Diagostiker und der Probant
 ## Status
 
 ## Verwendete Anwendungsfälle
