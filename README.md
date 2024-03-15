@@ -1,3 +1,3 @@
 # Leistungstest
 Sakai Aufgabe 2
-Kometer Alexander, Sagmeister Georg
+Gruppenmitgleider: Kometer Alexander und Sagmeister Georg
