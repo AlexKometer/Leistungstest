@@ -21,7 +21,7 @@ Gruppenmitgleider: Kometer Alexander und Sagmeister Georg
 ## Invarianten
 
 ## Nachbedingung/Ergebnis
-
+    UC1.07 Abbruch des Leistungstests
 ## Standardablauf
 
 ## Alternative Ablaufschritte
