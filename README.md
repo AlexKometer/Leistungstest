@@ -25,9 +25,9 @@ Gruppenmitgleider: Kometer Alexander und Sagmeister Georg
 ## Standardablauf
     Der Proband ist aufgrund der zu hohen geforderten Leistung nicht mehr in der Lage, die gewünschte Leistung zu erreichen. In Folge wird somit seine maximale Leistung gemessen.
 ## Alternative Ablaufschritte
-
+    -
 ## Hinweise
-
+    Der Wert wird dynamisch während des Leistugstestes kontinuierlich erhöht
 ### Änderungsgeschichte
      15-03-2024, 14:00: Erstellung des Ablaufes UC1.04
 
